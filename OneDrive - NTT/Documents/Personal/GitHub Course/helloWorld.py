@@ -1,1 +1,2 @@
-print("Hello World from Bhekani")
+print("Hello world")
+print("Hello world v2")
